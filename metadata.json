@@ -1,0 +1,6 @@
+{
+  "name": "Repairo QuickFix",
+  "description": "Professional doorstep appliance repair service in Bangalore for washing machines, ACs, and refrigerators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
